@@ -1,0 +1,795 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11/"
+     xml:base="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:untitled-ontology-11="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#hasDetectionMethod -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#hasDetectionMethod"/>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#hasEffectiveness -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#hasEffectiveness"/>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#hasKeyLength -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#hasKeyLength"/>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#hasLicenseType -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#hasLicenseType"/>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#hasManufacturer -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#hasManufacturer"/>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#hasSolutionFor -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#hasSolutionFor"/>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#isImplementedIn -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#isImplementedIn"/>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#partOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#partOf"/>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#providesProtectionAgainst -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#providesProtectionAgainst"/>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#providesRealTimeMonitoring -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#providesRealTimeMonitoring"/>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#usesAlgorithm -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#usesAlgorithm"/>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#usesAlgorithmType -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#usesAlgorithmType"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#hasEffectiveness -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#hasEffectiveness"/>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#hasName -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#hasName"/>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#hasRiskLevel -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#hasRiskLevel"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Access_Control_Policies -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Access_Control_Policies">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Security_Policies"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Antivirus -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Antivirus">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Security_Measures"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Authentication -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Authentication">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cybersecurity_Concepts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cryptography -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cryptography">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cybersecurity_Concepts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cyber_Threats -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cyber_Threats"/>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cybersecurity_Concepts -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cybersecurity_Concepts"/>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Encryption_Algorithms -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Encryption_Algorithms">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Security_Measures"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Firewall -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Firewall">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Security_Measures"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Incident_Response -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Incident_Response">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cybersecurity_Concepts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Incident_Response_Plan -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Incident_Response_Plan">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Security_Policies"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Intrusion_Detection_System -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Intrusion_Detection_System">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Security_Measures"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Malware -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Malware">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cybersecurity_Concepts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Network_Security -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Network_Security">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cybersecurity_Concepts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Phishing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Phishing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cyber_Threats"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#SQL_Injection -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#SQL_Injection">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cyber_Threats"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Security_Audit -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Security_Audit">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Security_Policies"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Security_Measures -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Security_Measures"/>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Security_Policies -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Security_Policies"/>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Zero-Day_Exploit -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Zero-Day_Exploit">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cyber_Threats"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Denial_of_Service_(DoS) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Denial_of_Service_(DoS)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cyber_Threats"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#AES_128 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#AES_128">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Encryption_Algorithms"/>
+        <untitled-ontology-11:hasKeyLength rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#128_bits"/>
+        <untitled-ontology-11:usesAlgorithmType rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Symmetric"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#AES_256 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#AES_256">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Encryption_Algorithms"/>
+        <untitled-ontology-11:hasKeyLength rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#256_bits"/>
+        <untitled-ontology-11:usesAlgorithmType rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Symmetric"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#AES_Encryption -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#AES_Encryption">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cryptography"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Anomaly-based -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Anomaly-based">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cyber_Threats"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Antivirus_1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Antivirus_1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Antivirus"/>
+        <untitled-ontology-11:hasEffectiveness rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#High"/>
+        <untitled-ontology-11:hasLicenseType rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Paid"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Antivirus_2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Antivirus_2">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Antivirus"/>
+        <untitled-ontology-11:hasEffectiveness rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#High"/>
+        <untitled-ontology-11:hasLicenseType rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Paid"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Antivirus_3 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Antivirus_3">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Antivirus"/>
+        <untitled-ontology-11:hasEffectiveness rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Medium"/>
+        <untitled-ontology-11:hasLicenseType rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Paid"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Asymmetric -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Asymmetric">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Encryption_Algorithms"/>
+        <untitled-ontology-11:usesAlgorithmType rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Asymmetric"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Audit_1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Audit_1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Security_Audit"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Audit_2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Audit_2">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Security_Audit"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Biometric_Authentication -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Biometric_Authentication">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Authentication"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cisco -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cisco">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cyber_Threats"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#DDoS -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#DDoS">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cyber_Threats"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#DES -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#DES">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Encryption_Algorithms"/>
+        <untitled-ontology-11:hasKeyLength rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#56_bits"/>
+        <untitled-ontology-11:usesAlgorithmType rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Symmetric"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Data_Breach_Plan -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Data_Breach_Plan">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Incident_Response_Plan"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#DoS_Attack_1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#DoS_Attack_1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Denial_of_Service_(DoS)"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#DoS_Attack_2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#DoS_Attack_2">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Denial_of_Service_(DoS)"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Firewall -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Firewall">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Malware"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Firewall_1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Firewall_1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Firewall"/>
+        <untitled-ontology-11:hasManufacturer rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cisco"/>
+        <untitled-ontology-11:providesProtectionAgainst rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#DDoS"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Firewall_2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Firewall_2">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Firewall"/>
+        <untitled-ontology-11:hasManufacturer rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Palo_Alto"/>
+        <untitled-ontology-11:providesProtectionAgainst rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Malware"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Firewall_3 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Firewall_3">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Firewall"/>
+        <untitled-ontology-11:hasManufacturer rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Microsoft"/>
+        <untitled-ontology-11:providesProtectionAgainst rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Intrusions"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#High -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#High">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cyber_Threats"/>
+        <untitled-ontology-11:hasLicenseType rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Paid"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Hybrid -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Hybrid">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cyber_Threats"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#IDS_1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#IDS_1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Intrusion_Detection_System"/>
+        <untitled-ontology-11:hasDetectionMethod rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Signature-based"/>
+        <untitled-ontology-11:providesRealTimeMonitoring rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#True"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#IDS_2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#IDS_2">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Intrusion_Detection_System"/>
+        <untitled-ontology-11:hasDetectionMethod rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Anomaly-based"/>
+        <untitled-ontology-11:providesRealTimeMonitoring rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#True"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#IDS_3 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#IDS_3">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Intrusion_Detection_System"/>
+        <untitled-ontology-11:hasDetectionMethod rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Hybrid"/>
+        <untitled-ontology-11:providesRealTimeMonitoring rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#True"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#IDS_System -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#IDS_System">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Malware"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Incident_Response_1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Incident_Response_1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Incident_Response"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Incident_Response_2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Incident_Response_2">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Incident_Response"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Intrusions -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Intrusions">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cyber_Threats"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Malware -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Malware">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cyber_Threats"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Mandatory_Access_Control -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Mandatory_Access_Control">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Access_Control_Policies"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Medium -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Medium">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cyber_Threats"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Microsoft -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Microsoft">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cyber_Threats"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Paid -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Paid">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cyber_Threats"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Palo_Alto -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Palo_Alto">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cyber_Threats"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Phishing_Attack_1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Phishing_Attack_1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Phishing"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Phishing_Attack_2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Phishing_Attack_2">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Phishing"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#RSA_2048 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#RSA_2048">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Encryption_Algorithms"/>
+        <untitled-ontology-11:hasKeyLength rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#2048_bits"/>
+        <untitled-ontology-11:usesAlgorithmType rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Asymmetric"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#RSA_Encryption -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#RSA_Encryption">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cryptography"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Ransomware_1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Ransomware_1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Network_Security"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Ransomware_Response -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Ransomware_Response">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Incident_Response_Plan"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Role-Based_Access_Control -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Role-Based_Access_Control">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Access_Control_Policies"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#SQL_Injection_1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#SQL_Injection_1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#SQL_Injection"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#SQL_Injection_2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#SQL_Injection_2">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#SQL_Injection"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Security_Policy_1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Security_Policy_1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Security_Policies"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Security_Policy_2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Security_Policy_2">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Security_Policies"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Signature-based -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Signature-based">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cyber_Threats"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Symmetric -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Symmetric">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cyber_Threats"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Trojan_Horse_1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Trojan_Horse_1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Network_Security"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#True -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#True">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cyber_Threats"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Two_Factor_Authentication -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Two_Factor_Authentication">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Authentication"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Zero_Day_Exploit_1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Zero_Day_Exploit_1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Zero-Day_Exploit"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Zero_Day_Exploit_2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Zero_Day_Exploit_2">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Zero-Day_Exploit"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#128_bits -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#128_bits">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cyber_Threats"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#2048_bits -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#2048_bits">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cyber_Threats"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#256_bits -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#256_bits">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cyber_Threats"/>
+        <untitled-ontology-11:usesAlgorithmType rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Symmetric"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#56_bits -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#56_bits">
+        <rdf:type rdf:resource="http://www.semanticweb.org/akashkibehan/ontologies/2024/11/untitled-ontology-11#Cyber_Threats"/>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi -->
+
